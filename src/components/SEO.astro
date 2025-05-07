@@ -1,0 +1,12 @@
+---
+import { getSiteContent } from '../utils/contentLoader';
+const content = getSiteContent();
+const seo = content.seo;
+---
+<title>{seo.title}</title>
+<meta name="description" content={seo.description} />
+<meta name="keywords" content={seo.keywords.join(', ')} />
+<link rel="icon" href={seo.favicon} />
+{Object.entries(seo.meta).map(([name, value]) =>
+  name.startsWith('og:') ? <meta property={name} content={value} /> : <meta name={name} content={value} />
+)} 

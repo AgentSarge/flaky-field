@@ -1,6 +1,6 @@
 ---
 import { getSiteContent } from '../utils/contentLoader';
-import NavBar from '../components/NavBar.astro';
+import Header from '../components/Header.astro';
 import HeroSection from '../components/HeroSection.astro';
 import TrustedBySection from '../components/TrustedBySection.astro';
 import NeedSection from '../components/NeedSection.astro';
@@ -10,12 +10,20 @@ import TestimonialSection from '../components/TestimonialSection.astro';
 import GallerySection from '../components/GallerySection.astro';
 import FAQSection from '../components/FAQSection.astro';
 import Footer from '../components/Footer.astro';
+import FooterSection from '../components/FooterSection.astro';
 import LeadForm from '../components/LeadForm.astro';
+import FeaturesSection from '../components/FeaturesSection.astro';
+import ReviewsSection from '../components/ReviewsSection.astro';
+import ProductSpecsSection from '../components/ProductSpecsSection.astro';
+import SEO from '../components/SEO.astro';
 const content = getSiteContent();
 ---
 
-<NavBar navigation={content.navigation} />
+<Header />
 <HeroSection hero={content.hero} />
+<FeaturesSection />
+<ReviewsSection />
+<ProductSpecsSection />
 <TrustedBySection trustedBy={content.trustedBy} />
 <NeedSection need={content.need} />
 <SolutionSection solution={content.solution} />
@@ -24,7 +32,7 @@ const content = getSiteContent();
 <TestimonialSection testimonials={content.testimonials} />
 <GallerySection gallery={content.gallery} />
 <FAQSection faq={content.faq} />
-<Footer footer={content.footer} />
+<FooterSection />
 
 <html lang="en">
 	<head>
@@ -34,6 +42,7 @@ const content = getSiteContent();
 		<meta name="generator" content={Astro.generator} />
 		<title>{content.seo.title || 'Astro'}</title>
 		<meta name="description" content={content.seo.description} />
+		<SEO />
 	</head>
 	<body>
 		<section id="hero">
