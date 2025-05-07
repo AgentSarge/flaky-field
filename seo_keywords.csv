@@ -1,0 +1,994 @@
+keyword,search_volume,competition,category
+solar panels,120000,medium,product
+residential solar,40000,low,product
+solar installation,25000,medium,service
+solar energy,90000,high,concept
+solar power for home,30000,medium,product
+solar savings,12000,low,benefit
+solar incentives,8000,low,benefit
+solar tax credit,15000,medium,benefit
+solar installer near me,10000,high,service
+solar quotes,7000,medium,service
+solar financing,5000,medium,benefit
+solar company reviews,4000,medium,service
+solar battery,20000,high,product
+solar maintenance,3000,low,service
+solar panel cost,25000,high,product
+solar for homeowners,6000,low,product
+clean energy,35000,medium,concept
+renewable energy,50000,high,concept
+solar home value,2000,low,benefit
+solar panel warranty,1500,low,product intent,keyword,search_volume,competition,cpc_low,cpc_high
+commercial,solar panels,14800,MEDIUM,5.866658,18.894497
+commercial,solar panel installation,2400,LOW,7.835983,35.392754
+commercial,solar companies,3600,LOW,6.844435,29.140493
+commercial,solar contractors,480,LOW,5.797801,30.682901
+commercial,solar quotes,480,MEDIUM,16.264141,59.974882
+commercial,solar financing,40,MEDIUM,6.871978,18.302323
+commercial,solar incentives,110,HIGH,4.282936,12.449435
+commercial,solar battery storage,720,LOW,2.368697,9.226904
+commercial,solar power for homes,6600,LOW,6.25226,23.673208
+commercial,solar energy companies,2400,LOW,4.338022,19.266328
+commercial,solar installation companies,1900,LOW,7.505467,24.100124
+commercial,solar panel installers,,,,
+commercial,solar system cost,590,HIGH,1.377149,13.055381
+commercial,solar panel cost,2900,LOW,4.145221,14.51516
+commercial,solar energy cost,2900,LOW,4.145221,14.51516
+commercial,solar rebates,170,HIGH,2.988415,9.075418
+commercial,solar tax credit,170,LOW,2.579607,8.194042
+commercial,solar grants,20,MEDIUM,3.690761,15.630652
+commercial,solar energy savings,20,MEDIUM,6.004373,13.220639
+commercial,solar power rebates,170,LOW,4.362269,16.153969
+commercial,solar energy consultation,70,LOW,0,0
+informational,solar energy,2900,LOW,5.797801,18.877688
+informational,solar energy benefits,140,MEDIUM,2.533955,7.973698
+informational,solar energy savings,20,MEDIUM,6.004373,13.220639
+informational,solar installation process,10,LOW,0,0
+informational,solar panel reviews,70,HIGH,3.346474,7.739582
+informational,solar energy tips,10,UNSPECIFIED,0,0
+informational,solar energy for homes,6600,LOW,6.25226,23.673208
+informational,solar energy for businesses,110,LOW,0,0
+informational,solar energy for schools,10,LOW,0,0
+informational,solar energy for farms,10,LOW,0,0
+transactional,buy solar panels,210,HIGH,3.307272,15.451622
+transactional,solar panel quotes,210,MEDIUM,42.003074,90.933214
+transactional,solar installation near me,1600,LOW,10.783084,42.127018
+transactional,solar panel installers near me,1600,LOW,10.783084,42.127018
+transactional,solar companies near me,2400,LOW,8.536264,32.982742
+transactional,solar panel financing,90,LOW,6.79279,18.756782
+transactional,solar battery installation,50,LOW,0,0
+transactional,solar maintenance services,10,LOW,0,0
+navigational,tesla solar panels,1600,MEDIUM,3.759619,13.881671
+navigational,sunpower solar panels,590,HIGH,3.95242,16.484485
+navigational,lg solar panels,20,HIGH,0,0
+navigational,panasonic solar panels,50,HIGH,2.754299,13.41344
+navigational,renogy solar panels,210,HIGH,0.275429,30.614044
+branded,tesla solar,2900,MEDIUM,5.398427,19.142384
+branded,sunrun solar,1600,LOW,3.024951,13.661327
+branded,sunpower,1600,LOW,4.764938,18.743011
+branded,lg solar,10,MEDIUM,0,0
+branded,panasonic solar,10,HIGH,0,0
+expanded,solar panels for home,6600,LOW,6.25226,23.673208
+expanded,solar installers near me,1300,LOW,8.979017,34.34612
+expanded,sunpower solar,480,MEDIUM,5.756485,23.549264
+expanded,solar power,2400,MEDIUM,6.938464,21.841598
+expanded,tesla solar roof,1000,MEDIUM,3.291388,12.174005
+expanded,solar panels for sale,880,HIGH,3.043501,12.091376
+expanded,best solar panels,720,HIGH,4.627223,12.752408
+expanded,best solar companies,390,LOW,7.422838,41.658787
+expanded,free solar panels,210,HIGH,6.293575,19.844731
+expanded,solar panel price,480,MEDIUM,3.800933,10.412248
+expanded,tesla solar roof cost,210,MEDIUM,3.098587,10.466339
+expanded,solar providers near me,2400,LOW,8.536264,32.982742
+expanded,sunrun solar panels,590,HIGH,4.585909,17.472868
+expanded,solar panels near me,590,LOW,6.692948,31.027189
+expanded,off grid solar system,480,HIGH,1.156805,6.885749
+expanded,solar panel companies,390,LOW,7.491695,31.123589
+expanded,home solar system,2400,MEDIUM,6.20017,21.332053
+expanded,solar installation,3600,LOW,7.491695,26.565223
+expanded,tesla solar panels cost,210,HIGH,3.897334,12.256634
+expanded,solar panel system,320,HIGH,5.701399,15.217507
+expanded,solar panel installation cost,590,LOW,4.654766,13.496069
+expanded,solar panels for your home,6600,LOW,6.25226,23.673208
+expanded,sunrun solar company,30,LOW,3.12613,15.89231
+expanded,solar panels for home cost,590,MEDIUM,4.627223,14.14333
+expanded,best solar panel companies,110,LOW,3.814705,22.447543
+expanded,average cost of solar panels,110,MEDIUM,3.897334,10.301081
+expanded,solar installation cost,90,MEDIUM,6.927064,15.52048
+expanded,top solar companies,50,LOW,5.508599,19.65193
+expanded,solar panels for home use,70,MEDIUM,5.246941,18.426266
+expanded,local solar companies,260,LOW,5.205975,23.32892
+expanded,solar panel companies near me,720,LOW,8.799988,32.087594
+expanded,solar power companies near me,2400,LOW,8.536264,32.982742
+expanded,solar contractors near me,90,LOW,9.516106,30.145813
+expanded,solar panel system cost,20,MEDIUM,0,0
+expanded,best solar companies near me,590,LOW,7.367752,41.548615
+expanded,home solar system cost,260,LOW,6.458833,16.016254
+expanded,solar power companies,3600,LOW,6.844435,29.140493
+expanded,solar power installers near me,1300,LOW,8.979017,34.34612
+expanded,install solar panels on roof,140,HIGH,7.271351,26.592766
+expanded,vivint solar panels,20,MEDIUM,8.951474,15.589337
+expanded,sun power,260,LOW,2.836928,15.630652
+expanded,solar city,170,LOW,4.393108,12.394349
+expanded,sunpro solar,30,MEDIUM,4.200307,17.82194
+expanded,sun solar,260,MEDIUM,4.090135,14.639104
+expanded,sunnova solar,170,MEDIUM,3.057272,18.288551
+expanded,baker electric solar,10,UNSPECIFIED,0,0
+expanded,gaf solar shingles,140,LOW,2.754299,12.573379
+expanded,powur solar,70,MEDIUM,2.547727,19.114841
+expanded,sun solar company,30,HIGH,2.974643,16.883858
+expanded,solar installers,390,LOW,4.40664,25.325788
+expanded,smart solar savings,10,UNSPECIFIED,0,0
+expanded,commercial solar companies,390,LOW,10.080737,32.982742
+expanded,solar tech,70,LOW,5.260712,14.928305
+expanded,best solar panels 2022,10,UNSPECIFIED,0,0
+expanded,solar city tesla,10,LOW,0,0
+expanded,tesla solar panels florida,10,UNSPECIFIED,0,0
+expanded,solar solutions,50,LOW,3.525503,15.010934
+expanded,solar panel companies to avoid,40,MEDIUM,4.723624,10.245995
+expanded,simply solar,30,LOW,4.888882,17.875406
+expanded,tesla solar shingles,140,MEDIUM,2.602291,7.849754
+expanded,top rated solar companies,10,HIGH,6.059459,29.512324
+expanded,solar installation companies near me,1300,LOW,8.979017,34.34612
+expanded,solar energy companies near me,590,LOW,7.712039,28.219825
+expanded,local solar companies near me,1000,LOW,1.928009,5.343341
+expanded,the best solar companies,10,UNSPECIFIED,0,0
+expanded,local solar panel companies,30,MEDIUM,6.192635,20.147704
+expanded,best rated solar companies,390,LOW,7.422838,41.658787
+expanded,roofing and solar companies near me,50,MEDIUM,0,0
+expanded,best solar panel installers near me,20,HIGH,13.070986,18.219454
+expanded,solar panel installation companies near me,90,LOW,0,0
+expanded,commercial solar companies near me,210,LOW,0,0
+expanded,reputable solar companies,10,LOW,0,0
+expanded,solar roofing companies near me,10,HIGH,0,0
+expanded,best solar power companies,390,LOW,7.422838,41.658787
+expanded,solar companies in my area,10,HIGH,0,0
+expanded,residential solar companies,70,LOW,0,0
+expanded,best company for solar panels,110,LOW,3.814705,22.447543
+expanded,solar system companies near me,10,LOW,13.110467,25.573675
+expanded,solar farm companies,30,MEDIUM,5.866658,16.195283
+expanded,solar panel contractors,70,LOW,6.197174,27.432827
+expanded,solar panel quote,210,MEDIUM,42.003074,90.933214
+expanded,solarquotes,10,MEDIUM,0,0
+expanded,sunpower quote,30,UNSPECIFIED,0,0
+expanded,online solar quote,10,HIGH,30.338614,73.677524
+expanded,solar power quotes,40,LOW,0,0
+expanded,get solar quotes,20,HIGH,46.974586,101.910124
+expanded,solar panel quote online,90,HIGH,0,0
+expanded,tesla solar quote,50,HIGH,0,0
+expanded,free solar quotes,10,HIGH,0,0
+expanded,solar energy quotes,20,LOW,7.877297,52.24907
+expanded,instant solar quote,10,HIGH,0,0
+expanded,solar system quotes,10,LOW,0,0
+expanded,solar quote official,10,UNSPECIFIED,0,0
+expanded,solar roof estimate,10,HIGH,0,0
+expanded,solar panel installation quote,40,LOW,0,0
+expanded,sunrun quote,30,HIGH,17.088543,39.724183
+expanded,solar quotes near me,10,HIGH,0,0
+expanded,solar installation quote,10,HIGH,0,0
+expanded,solar online quote,10,UNSPECIFIED,0,0
+expanded,solar loan,70,LOW,5.178083,15.589337
+expanded,solar financing companies,20,MEDIUM,0,0
+expanded,solar panel loans,90,LOW,6.79279,18.756782
+expanded,solar lease,50,LOW,4.243876,17.851463
+expanded,government loans for solar panels,10,UNSPECIFIED,0,0
+expanded,interest free solar panel loans,10,HIGH,0,0
+expanded,commercial solar financing,10,HIGH,6.087002,24.141439
+expanded,best solar loan companies,10,UNSPECIFIED,0,0
+expanded,zero down solar,10,LOW,0,0
+expanded,solar system financing,10,MEDIUM,0,0
+expanded,loan for solar system,10,HIGH,6.279803,14.170873
+expanded,commercial solar financing companies,10,LOW,0,0
+expanded,residential solar financing companies,10,MEDIUM,0,0
+expanded,solar loan companies,10,HIGH,0,0
+expanded,green loans for solar,10,UNSPECIFIED,0,0
+expanded,best solar financing companies,10,HIGH,0,0
+expanded,best solar loans,10,HIGH,0,0
+expanded,solar financing companies for contractors,10,UNSPECIFIED,0,0
+expanded,solar panel financing companies,10,MEDIUM,0,0
+expanded,solar lease companies,10,LOW,2.217211,4.696081
+expanded,solar panel tax credit,320,MEDIUM,2.354926,9.350848
+expanded,solar panel grants,390,MEDIUM,6.830663,17.847863
+expanded,solar rebate,170,HIGH,2.988415,9.075418
+expanded,solar tax credit 2023,10,MEDIUM,0,0
+expanded,solar tax credit 2022,10,LOW,0,0
+expanded,solar panel rebate,170,LOW,4.362269,16.153969
+expanded,federal solar tax credit,260,LOW,2.492641,8.111413
+expanded,government grants for solar panels,40,MEDIUM,8.331757,23.452864
+expanded,solar panel government rebate,10,MEDIUM,2.879028,12.958981
+expanded,government funded solar panels,30,HIGH,2.712985,17.420947
+expanded,government solar rebate,140,HIGH,5.15054,7.643182
+expanded,government programs for solar panels,260,HIGH,7.222264,23.237756
+expanded,government incentives for solar panels,10,MEDIUM,0,0
+expanded,solar panel incentives by state,20,HIGH,0,0
+expanded,solar panel tax credit 2022,10,UNSPECIFIED,0,0
+expanded,federal government solar incentives,10,LOW,0,0
+expanded,solar grants for homeowners,40,HIGH,6.844435,19.693244
+expanded,solar panel incentives,170,LOW,4.362269,16.153969
+expanded,solar battery rebate,10,LOW,0,0
+expanded,solar government programs,50,HIGH,8.345528,25.741927
+expanded,tesla powerwall cost,390,MEDIUM,1.830923,6.165595
+expanded,solar battery bank,210,HIGH,1.418464,5.756485
+expanded,solar panels with battery storage,40,HIGH,5.006474,21.318281
+expanded,solar batteries for home,170,HIGH,2.065724,7.656953
+expanded,home battery storage,260,MEDIUM,2.065724,7.491695
+expanded,solar battery cost,140,MEDIUM,1.418464,4.654766
+expanded,battery storage,210,HIGH,0.537088,4.930196
+expanded,solar battery storage system,110,HIGH,3.580589,10.369939
+expanded,solar battery for house,170,HIGH,2.065724,7.656953
+expanded,solar battery storage price,30,LOW,3.228156,5.9035
+expanded,best solar battery backup system for home,70,HIGH,2.423783,7.965556
+expanded,solar battery backup for home,40,HIGH,2.065724,10.521425
+expanded,solar panels and battery cost,70,HIGH,2.809385,10.039423
+expanded,solar battery system,720,HIGH,2.561498,10.232224
+expanded,generac pwrcell,40,HIGH,1.428857,8.317985
+expanded,best batteries for solar power storage,20,HIGH,0,0
+expanded,home battery backup without solar,20,HIGH,1.872923,9.144275
+expanded,solar power systems with battery storage,10,UNSPECIFIED,0,0
+expanded,solar panels with battery storage cost,10,HIGH,0,0
+expanded,solar and battery system,720,HIGH,2.561498,10.232224
+expanded,tesla powerwall,1300,HIGH,1.721437,7.643182
+expanded,solar panels for house,6600,LOW,6.25226,23.673208
+expanded,solar for home,6600,LOW,6.25226,23.673208
+expanded,residential solar panels,320,HIGH,6.087002,20.423134
+expanded,powerwall,170,HIGH,1.446007,6.210946
+expanded,home solar power system,2400,MEDIUM,6.20017,21.332053
+expanded,rv solar panels,480,HIGH,0.220343,1.886695
+expanded,powerhome solar,70,MEDIUM,4.365565,13.523612
+expanded,solar panel system for house,50,HIGH,6.472604,16.195283
+expanded,solar panels installation near me,480,LOW,7.326437,36.72859
+expanded,buy solar panels for home,30,HIGH,8.676044,21.153023
+expanded,residential solar systems,210,LOW,3.442874,31.578049
+expanded,best solar panels for home,260,HIGH,4.379336,15.52048
+expanded,portable solar panel,1000,HIGH,0.316744,2.754299
+expanded,home solar panel system,2400,MEDIUM,6.20017,21.332053
+expanded,whole house solar system,110,HIGH,4.189871,14.391217
+expanded,geneverse homepower one,10,HIGH,0,0
+expanded,solar for my home,20,LOW,14.253502,51.643124
+expanded,solar panels for my house,50,LOW,12.394349,33.189314
+expanded,best solar system for home,90,HIGH,5.439742,28.534547
+expanded,infinity solar,10,MEDIUM,7.25758,28.025002
+expanded,posigen solar,10,LOW,0,0
+expanded,canadian solar panels,70,HIGH,0.46823,5.866658
+expanded,best solar installers near me,20,LOW,2.244754,27.820159
+expanded,adt solar panels,10,HIGH,0,0
+expanded,best solar,20,HIGH,6.422004,32.514511
+expanded,rec solar panels,110,HIGH,3.043501,18.743011
+expanded,enphase solar,140,HIGH,2.792919,15.79591
+expanded,sunpower solar panels price,20,MEDIUM,0,0
+expanded,go solar power,10,MEDIUM,5.701399,28.658491
+expanded,affordable solar,70,LOW,0,0
+expanded,jinko solar panels,110,HIGH,0.895147,20.657249
+expanded,sunpower solar company,480,MEDIUM,5.756485,23.549264
+expanded,best solar panel,720,HIGH,4.627223,12.752408
+expanded,ikea solar panels,10,MEDIUM,0,0
+expanded,solar city solar panels,10,HIGH,3.856019,23.852237
+expanded,tesla solar roof cost 2022,10,UNSPECIFIED,0,0
+expanded,solcius solar,10,UNSPECIFIED,0,0
+expanded,solar panel suppliers,40,HIGH,3.139901,11.926118
+expanded,affordable solar roof and air,30,MEDIUM,0,0
+expanded,sunrun company,40,MEDIUM,2.272063,7.725811
+expanded,semper solaris solar,10,LOW,0,0
+expanded,local solar installers,140,LOW,7.119865,13.8679
+expanded,solar energy installers near me,1600,LOW,10.783084,42.127018
+expanded,commercial solar installers,30,LOW,0,0
+expanded,sunrun solar cost,10,HIGH,5.921744,12.807494
+expanded,sunation solar,10,LOW,0,0
+expanded,solar system installation near me,10,LOW,0,0
+expanded,top solar panel companies,10,HIGH,6.16068,30.682901
+expanded,solar sunrun,1600,LOW,3.024951,13.661327
+expanded,best solar installers,20,MEDIUM,8.855074,9.998108
+expanded,sunpower installers near me,10,LOW,0,0
+expanded,solar system company,30,MEDIUM,19.018441,53.598677
+expanded,sunrun ppa,10,MEDIUM,0,0
+expanded,sunrun cost,20,HIGH,3.828476,16.809198
+expanded,sunrun panels,70,HIGH,3.470417,16.44317
+expanded,sunpower dealers near me,10,UNSPECIFIED,0,0
+expanded,tesla solar company,2900,MEDIUM,5.398427,19.142384
+expanded,commercial solar installation companies,40,LOW,16.44317,31.674449
+expanded,semper solaris roofing,10,UNSPECIFIED,0,0
+expanded,solar power installation,2400,LOW,7.835983,35.392754
+expanded,solar system installation,390,LOW,6.376204,46.244696
+expanded,local solar panel installers,40,LOW,0,0
+expanded,ground mounted solar panels,110,HIGH,1.514864,8.579644
+expanded,solar panels for home near me,10,LOW,0,0
+expanded,roof solar panels cost,70,HIGH,8.441929,17.462261
+expanded,independent solar panel installers,10,LOW,0,0
+expanded,adding solar panels to house,10,HIGH,3.732076,17.655062
+expanded,rv solar installation near me,20,MEDIUM,1.652579,4.640995
+expanded,solar power installation cost,90,MEDIUM,6.927064,15.52048
+expanded,getting solar panels,140,LOW,0,0
+expanded,solar system installation cost,10,MEDIUM,11.685814,25.757585
+expanded,getting solar panels for your home,10,UNSPECIFIED,0,0
+expanded,clean solar,50,LOW,0,0
+expanded,solar panels no upfront cost,10,HIGH,0,0
+expanded,solar energy installation,720,LOW,12.532064,34.89698
+expanded,solar panel installers in my area,10,HIGH,0,0
+expanded,run solar company,50,LOW,0,0
+expanded,commercial solar panel installers,10,LOW,0,0
+expanded,cheapest solar company,10,HIGH,0,0
+expanded,solar hot water system price,10,MEDIUM,0,0
+expanded,price of solar panels,480,MEDIUM,3.800933,10.412248
+expanded,6.6 kw solar system with 5kw inverter price,10,UNSPECIFIED,0,0
+expanded,solar power systems prices,70,HIGH,0,0
+expanded,10kw solar system with battery price,10,MEDIUM,0,0
+expanded,solar panel maintenance near me,10,UNSPECIFIED,0,0
+expanded,average cost to install solar panels,30,HIGH,5.288255,14.573082
+expanded,6kw solar battery cost,10,UNSPECIFIED,0,0
+expanded,5kw solar battery price,10,HIGH,0,0
+expanded,solar panel maintenance,110,LOW,1.335835,9.46102
+expanded,10kw off grid solar system price,10,UNSPECIFIED,0,0
+expanded,6.6 kw solar system price,10,UNSPECIFIED,0,0
+expanded,10kw solar battery price,10,HIGH,0.757432,3.043501
+expanded,solar panel battery price,10,HIGH,1.556179,4.32425
+expanded,solar system price,70,HIGH,0,0
+expanded,10kw solar system price,10,HIGH,0,0
+expanded,solar panel estimate for house,10,UNSPECIFIED,0,0
+expanded,cost of solar panels for 3 bedroom house,20,MEDIUM,2.368697,4.704644
+expanded,solar power for home cost,590,MEDIUM,4.627223,14.14333
+expanded,estimate solar panel cost,10,HIGH,0,0
+expanded,solar cost,70,MEDIUM,4.338022,17.062888
+expanded,no cost solar,20,HIGH,7.946155,19.19747
+expanded,solar roof cost,90,HIGH,5.161712,16.635971
+expanded,solar shingles cost,170,MEDIUM,2.9471,8.042555
+expanded,average monthly electric bill with solar panels,20,MEDIUM,3.194987,7.725811
+expanded,solar power cost,2900,LOW,4.145221,14.51516
+expanded,sun power solar cost,10,UNSPECIFIED,0,0
+expanded,sunpower 400 watt solar panel price,10,UNSPECIFIED,0,0
+expanded,purchase solar panels for home,30,HIGH,8.676044,21.153023
+expanded,solar cost per kwh,30,LOW,3.539275,21.57994
+expanded,price of solar panel for home,590,MEDIUM,4.627223,14.14333
+expanded,13kw solar system price,20,HIGH,0,0
+expanded,benefits of solar energy,50,LOW,3.057272,8.538329
+expanded,average price for solar panels,10,HIGH,4.461965,10.236314
+expanded,residential solar panel cost,50,MEDIUM,4.50328,9.144275
+expanded,house solar panels cost,590,MEDIUM,4.627223,14.14333
+expanded,costco solar panels cost,10,UNSPECIFIED,0,0
+expanded,average cost of solar,20,HIGH,5.907973,9.626278
+expanded,sunrun solar panels cost,20,HIGH,4.585909,17.586205
+expanded,tax incentives for solar,20,MEDIUM,2.327383,6.472604
+expanded,tesla solar battery cost,20,MEDIUM,0,0
+expanded,gaf solar shingles cost,20,LOW,0,0
+expanded,tesla solar cost,30,MEDIUM,5.109226,11.76086
+expanded,solar and battery package price,10,UNSPECIFIED,0,0
+expanded,solar prices,40,MEDIUM,4.310479,7.653479
+expanded,solar inverter price,10,MEDIUM,0,0
+expanded,solar tubes cost,10,HIGH,0.302972,6.045688
+expanded,solar feed in tariff,10,HIGH,0,0
+expanded,solar battery storage system cost,10,LOW,0,0
+expanded,solar water heater price,10,HIGH,0,0
+expanded,best solar battery price,10,HIGH,0,0
+expanded,solar storage battery cost,10,MEDIUM,1.115491,3.484189
+expanded,pwrcell cost,10,HIGH,0,0
+expanded,solar backup battery cost,10,HIGH,0,0
+expanded,solar for home cost,590,MEDIUM,4.627223,14.14333
+expanded,sunpower battery cost,10,UNSPECIFIED,0,0
+expanded,generac pwrcell cost,10,HIGH,0,0
+expanded,no net cost solar,10,UNSPECIFIED,0,0
+expanded,tesla solar panels price,20,MEDIUM,2.754299,6.389975
+expanded,cost to go solar,10,HIGH,0,0
+expanded,federal solar incentives,20,MEDIUM,4.489508,14.804362
+expanded,solar panel programs,320,HIGH,12.932231,39.875378
+expanded,solar panel tax credit 2023,10,LOW,0,0
+expanded,federal solar tax credit 2022,10,UNSPECIFIED,0,0
+expanded,federal tax credit for solar panels 2022,10,UNSPECIFIED,0,0
+expanded,eversource solar incentives,10,UNSPECIFIED,0,0
+expanded,government solar programs,50,HIGH,8.345528,25.741927
+expanded,2023 solar tax credit,10,UNSPECIFIED,0,0
+expanded,solar power grants,390,MEDIUM,6.830663,17.847863
+expanded,government solar incentives,10,LOW,5.756485,19.004669
+expanded,ameren il solar incentives,70,MEDIUM,3.828476,11.774632
+expanded,sce solar rebate,10,UNSPECIFIED,0,0
+expanded,solar credit 2023,10,LOW,0,0
+expanded,solar energy tax credit,320,MEDIUM,2.354926,9.350848
+expanded,federal solar rebate,40,LOW,3.015958,8.006181
+expanded,solar credit 2022,10,UNSPECIFIED,0,0
+expanded,solar power incentives,110,HIGH,4.282936,12.449435
+expanded,solar credit,30,LOW,2.892014,8.399823
+expanded,solar panel rebates,170,LOW,4.362269,16.153969
+expanded,government rebate solar panels,10,MEDIUM,2.879028,12.958981
+expanded,itc tax credit,30,LOW,0,0
+expanded,tax credit for solar panels 2022,10,UNSPECIFIED,0,0
+expanded,residential solar tax credit,10,MEDIUM,3.525503,10.198781
+expanded,federal solar tax credit 2023,10,UNSPECIFIED,0,0
+expanded,solar rebate 2023,10,UNSPECIFIED,0,0
+expanded,2022 solar tax credit,10,UNSPECIFIED,0,0
+expanded,solar panel credit,30,LOW,2.616584,7.743529
+expanded,solar stimulus,10,UNSPECIFIED,0,0
+expanded,federal solar tax credit 2022 income limit,10,UNSPECIFIED,0,0
+expanded,federal tax credit for solar panels,90,LOW,2.905786,10.769312
+expanded,solar investment tax credit,70,LOW,2.478869,9.18559
+expanded,solar panel stimulus,10,HIGH,0,0
+expanded,federal government solar rebate,10,HIGH,0,0
+expanded,solar power tax credit,170,LOW,2.579607,8.194042
+expanded,itc tax credit solar,20,LOW,1.666351,3.12613
+expanded,government solar panel program,260,HIGH,7.222264,23.237756
+expanded,solar panels for home government scheme,10,UNSPECIFIED,0,0
+expanded,solar panel funding,10,HIGH,0,0
+expanded,grants for solar panels for homes,20,HIGH,0,0
+expanded,solar panels for business grants,10,UNSPECIFIED,0,0
+expanded,government solar panel scheme,10,MEDIUM,0,0
+expanded,solar panel grants for homeowners,10,LOW,0,0
+expanded,solar power grants for homeowners,40,HIGH,6.844435,19.693244
+expanded,federal solar grants,10,MEDIUM,5.632543,9.96341
+expanded,government funded solar programs,20,HIGH,3.842248,22.035439
+expanded,solar government grants,10,MEDIUM,0,0
+expanded,commercial solar panel grants,10,UNSPECIFIED,0,0
+expanded,federal grants for solar power,10,MEDIUM,5.632543,9.96341
+expanded,government grants for solar power,10,UNSPECIFIED,0,0
+expanded,solar energy grants,10,LOW,0,0
+expanded,solar grants for business,10,MEDIUM,0,0
+expanded,federal grant for solar panels,10,HIGH,5.591228,12.532064
+expanded,solar savings,20,LOW,2.382469,11.777922
+expanded,smart home savings solar,10,UNSPECIFIED,0,0
+expanded,solar panel savings,10,LOW,0,0
+expanded,masssave solar,10,UNSPECIFIED,0,0
+expanded,average electric bill with solar panels,10,LOW,0,0
+expanded,go solar and save,10,LOW,0,0
+expanded,save on solar,20,LOW,2.382469,11.777922
+expanded,estimate solar savings,20,HIGH,3.750088,15.093563
+expanded,solar panels not reducing bill,10,LOW,0,0
+expanded,save with solar,20,LOW,2.382469,11.777922
+expanded,solar power savings,20,LOW,2.382469,11.777922
+expanded,average savings with solar panels,10,MEDIUM,0,0
+expanded,energy saving solar panels,10,LOW,0,0
+expanded,solar panels worth the cost,10,UNSPECIFIED,0,0
+expanded,solar panels save money,10,LOW,0,0
+expanded,solar panels reduce electricity bill,10,LOW,0,0
+expanded,fpl solar incentives,10,UNSPECIFIED,0,0
+expanded,government grant solar panels,40,MEDIUM,8.331757,23.452864
+expanded,duke energy solar rebate,10,LOW,0,0
+expanded,government subsidies for solar panels,10,HIGH,7.712039,14.225959
+expanded,solar energy rebates,170,LOW,4.362269,16.153969
+expanded,tax rebate for solar panels,70,LOW,2.630356,7.340209
+expanded,solar system rebates,10,LOW,0,0
+expanded,solar power government grants,40,MEDIUM,8.331757,23.452864
+expanded,cps solar rebate,20,UNSPECIFIED,0,0
+expanded,solar energy incentives,10,LOW,0,0
+expanded,solar incentives by state,10,HIGH,2.602813,6.610319
+expanded,solar energy credit,30,LOW,2.616584,7.743529
+expanded,solar system government rebate,10,UNSPECIFIED,0,0
+expanded,solar energy incentives by state,10,HIGH,0,0
+expanded,pge solar incentives,10,UNSPECIFIED,0,0
+expanded,commercial solar rebates,10,UNSPECIFIED,0,0
+expanded,ladwp solar incentives,10,HIGH,0,0
+expanded,solar panel rebates by state,10,HIGH,0,0
+expanded,solar consultant,50,LOW,7.450381,11.953661
+expanded,solar consultation,50,LOW,7.450381,11.953661
+expanded,solar consultants near me,20,LOW,0,0
+expanded,independent solar consultant,10,UNSPECIFIED,0,0
+expanded,solar panel consultant,10,LOW,0,0
+expanded,solar panel consultation,10,LOW,0,0
+expanded,solar energy consultants near me,10,LOW,0,0
+expanded,tesla solar consultation,10,UNSPECIFIED,0,0
+expanded,free solar consultation,10,UNSPECIFIED,0,0
+expanded,solar power consultant,10,LOW,0,0
+expanded,residential solar consultant,10,UNSPECIFIED,0,0
+expanded,solar consulting services,10,UNSPECIFIED,0,0
+expanded,solar design consultant,10,UNSPECIFIED,0,0
+expanded,solar system consultant,10,UNSPECIFIED,0,0
+expanded,solar engineering consultants,10,LOW,0,0
+expanded,commercial solar consultant,10,UNSPECIFIED,0,0
+expanded,solar consulting companies,10,LOW,0,0
+expanded,solar business consultant,10,UNSPECIFIED,0,0
+expanded,solar pv design consultants,30,UNSPECIFIED,0,0
+expanded,solar,6600,LOW,6.279803,18.288551
+expanded,solar generators,3600,HIGH,0.881375,5.549914
+expanded,sun run solar,880,MEDIUM,2.768071,13.509841
+expanded,ion solar,480,MEDIUM,3.057272,12.518293
+expanded,solar shingles,480,MEDIUM,2.754299,8.689816
+expanded,solar near me,590,LOW,13.110467,36.666029
+expanded,solar roof,2900,LOW,4.764938,15.079792
+expanded,bluetti power station,170,HIGH,0.448585,4.971511
+expanded,costco solar,70,HIGH,6.334889,27.102311
+expanded,freedom forever solar,720,LOW,2.366089,9.047875
+expanded,costco solar panels,90,HIGH,7.670725,23.962409
+expanded,portable solar panels,1000,HIGH,0.316744,2.754299
+expanded,solar power system,1900,HIGH,5.205626,15.589337
+expanded,solar roof tiles,170,MEDIUM,2.754299,9.46102
+expanded,solar roof shingles,170,HIGH,3.330422,9.722678
+expanded,solar inverter,1300,LOW,0.64726,6.197174
+expanded,go solar,40,MEDIUM,6.114545,19.128613
+expanded,diy solar system,140,HIGH,1.286965,8.422467
+expanded,flexible solar panels,210,HIGH,0.224581,5.106492
+expanded,free solar,20,HIGH,10.329127,31.178675
+expanded,benefits of solar panels,140,MEDIUM,2.533955,7.973698
+expanded,solar energy advantages and disadvantages,70,LOW,1.886695,10.893256
+expanded,advantages of solar energy,70,LOW,3.062194,7.664761
+expanded,solar benefits,50,LOW,3.057272,8.538329
+expanded,benefits of going solar,10,UNSPECIFIED,0,0
+expanded,2023 solar panel tax credit,10,UNSPECIFIED,0,0
+expanded,benefits of solar panels on roof,10,MEDIUM,3.291388,10.135823
+expanded,government benefits for solar panels,10,UNSPECIFIED,0,0
+expanded,benefits of solar panels in homes,10,LOW,0,0
+expanded,pros of solar energy,40,LOW,0.382137,4.117678
+expanded,advantages of solar panels,140,MEDIUM,2.533955,7.973698
+expanded,benefits of solar power,140,MEDIUM,2.533955,7.973698
+expanded,commercial solar tax credit,10,LOW,0,0
+expanded,advantage solar,10,LOW,0,0
+expanded,tax benefits of solar panels,10,HIGH,2.134582,5.767768
+expanded,advantages of solar panels on roof,10,MEDIUM,3.291388,10.135823
+expanded,advantages of solar power,20,LOW,0,0
+expanded,benefits of having solar panels,10,HIGH,1.404692,15.61688
+expanded,solar power advantages and disadvantages,10,LOW,0.123943,10.066966
+expanded,benefits of solar energy to the environment,10,LOW,0,0
+expanded,solar panels electric bill,10,HIGH,4.145221,8.552101
+expanded,worth getting solar panels,10,UNSPECIFIED,0,0
+expanded,solar panel savings per month,10,HIGH,0,0
+expanded,solar panels cost effective,10,MEDIUM,0,0
+expanded,solar panels to reduce power bills,10,LOW,0,0
+expanded,solar panel cost savings,10,LOW,0,0
+expanded,solar panels and electric bill,10,UNSPECIFIED,0,0
+expanded,average cost savings solar panels,10,UNSPECIFIED,0,0
+expanded,cost effective solar panels for home,10,UNSPECIFIED,0,0
+expanded,solar roof savings,10,UNSPECIFIED,0,0
+expanded,solar savings estimate,20,HIGH,3.750088,15.093563
+expanded,solar panel savings per year,10,HIGH,0,0
+expanded,average solar savings,10,UNSPECIFIED,0,0
+expanded,using solar panels to reduce electricity bill,10,UNSPECIFIED,0,0
+expanded,solar panel installation process,10,LOW,0,0
+expanded,steps to install solar panels,10,UNSPECIFIED,0,0
+expanded,solar rooftop installation process,10,UNSPECIFIED,0,0
+expanded,step by step solar panel installation,10,LOW,0,0
+expanded,solar installation steps,10,LOW,0,0
+expanded,solar panel installation step by step procedure,10,UNSPECIFIED,0,0
+expanded,solar project installation process,10,UNSPECIFIED,0,0
+expanded,step by step solar installation,10,LOW,0,0
+expanded,residential solar installation process,10,UNSPECIFIED,0,0
+expanded,procedure for solar panel installation,10,LOW,0,0
+expanded,process of solar panel installation,10,LOW,0,0
+expanded,pv module assembly,10,UNSPECIFIED,0,0
+expanded,solar energy installation process,10,LOW,0,0
+expanded,solar panel assembly process,10,LOW,0,0
+expanded,solar panels assembly,10,HIGH,0,0
+expanded,sunrun solar reviews,1900,MEDIUM,2.258525,10.962113
+expanded,sunpower solar reviews,50,LOW,0,0
+expanded,tesla solar panels review,140,MEDIUM,2.974643,21.263195
+expanded,tesla solar reviews,40,LOW,0,0
+expanded,ion solar reviews,140,MEDIUM,4.296707,14.088244
+expanded,lumio solar reviews,10,LOW,0,0
+expanded,jackery solar panel,140,HIGH,0.344287,5.618771
+expanded,solar reviews,90,MEDIUM,5.990602,15.334488
+expanded,solar company reviews,50,LOW,0,0
+expanded,project solar reviews,40,LOW,4.574488,25.146758
+expanded,consumer reports best solar companies,10,UNSPECIFIED,0,0
+expanded,best solar panel brands,20,HIGH,2.230982,19.390271
+expanded,sunpower solar panels review,10,LOW,0,0
+expanded,jinko solar panels review,20,MEDIUM,0,0
+expanded,solar energy world reviews,10,UNSPECIFIED,0,0
+expanded,trina solar panels review,10,HIGH,9.726647,34.208405
+expanded,sun value solar reviews,10,HIGH,6.073231,19.872274
+expanded,sunpro solar reviews,10,LOW,0,0
+expanded,solar reviews leads,10,UNSPECIFIED,0,0
+expanded,tesla solar roof review,30,MEDIUM,2.754299,13.665188
+expanded,solar sales tips,10,LOW,0,0
+expanded,solar panel tips and tricks,10,UNSPECIFIED,0,0
+expanded,solar tips,10,UNSPECIFIED,0,0
+expanded,solar tips and tricks,10,UNSPECIFIED,0,0
+expanded,solar installation tips,10,UNSPECIFIED,0,0
+expanded,solar light tricks,10,UNSPECIFIED,0,0
+expanded,solar panel cleaning ideas,10,UNSPECIFIED,0,0
+expanded,solar panel installation tips,10,UNSPECIFIED,0,0
+expanded,solar panel maintenance tips,10,UNSPECIFIED,0,0
+expanded,solar panel tips,10,UNSPECIFIED,0,0
+expanded,solar power tips,10,UNSPECIFIED,0,0
+expanded,solar system tips,10,UNSPECIFIED,0,0
+expanded,solar system tricks,10,UNSPECIFIED,0,0
+expanded,solar tricks,10,UNSPECIFIED,0,0
+expanded,tip solar,10,UNSPECIFIED,0,0
+expanded,tip solar installers,10,LOW,0,0
+expanded,solar power for home,6600,LOW,6.25226,23.673208
+expanded,free solar panels for seniors,10,UNSPECIFIED,0,0
+expanded,tesla powerwall 2,40,MEDIUM,0,0
+expanded,tesla home solar,10,HIGH,4.021277,11.609374
+expanded,residential solar,70,LOW,9.213133,27.198712
+expanded,house solar system,2400,MEDIUM,6.20017,21.332053
+expanded,solar kits for home,390,HIGH,3.123969,12.890123
+expanded,average cost for solar panels,110,MEDIUM,3.897334,10.301081
+expanded,solar generators for home,1300,HIGH,2.296292,8.855074
+expanded,powerwall cost,90,HIGH,1.501093,6.692948
+expanded,free solar for seniors,10,UNSPECIFIED,0,0
+expanded,solar panels for my home,50,LOW,12.394349,33.189314
+expanded,solar for my house,20,LOW,14.253502,51.643124
+expanded,whole home solar system,110,HIGH,4.189871,14.391217
+expanded,solar panels for mobile homes,20,HIGH,5.191855,14.639104
+expanded,effective home solar,10,UNSPECIFIED,0,0
+expanded,get solar panels for home,210,UNSPECIFIED,0,0
+expanded,rv solar system,170,HIGH,0.288825,2.478869
+expanded,best portable solar panels,110,HIGH,0.482002,2.506412
+expanded,solar power for house,6600,LOW,6.25226,23.673208
+expanded,best solar company,140,LOW,7.07855,21.648797
+expanded,solar panels for business,70,LOW,4.0542,45.748925
+expanded,solar panels companies,390,LOW,7.491695,31.123589
+expanded,solar panels for commercial buildings,40,LOW,0,0
+expanded,solar for business,40,LOW,7.092322,17.407175
+expanded,commercial solar,90,LOW,5.274484,20.565327
+expanded,commercial solar panel,170,LOW,5.398427,18.398723
+expanded,solar for commercial buildings,20,LOW,0,0
+expanded,commercial solar system,40,LOW,0,0
+expanded,top 5 solar companies,10,LOW,0,0
+expanded,commercial solar panel installers near me,90,LOW,0,0
+expanded,top 10 solar companies,20,MEDIUM,0,0
+expanded,reputable solar companies near me,10,UNSPECIFIED,0,0
+expanded,solar panel installation companies,1900,LOW,7.505467,24.100124
+expanded,best rated solar companies near me,10,MEDIUM,0,0
+expanded,best solar lead generation companies,10,HIGH,0,0
+expanded,top solar companies near me,10,HIGH,0,0
+expanded,freedom solar company,10,LOW,3.112358,8.937703
+expanded,best local solar companies,10,LOW,0,0
+expanded,solar panel courses,10,LOW,1.735208,8.304214
+expanded,nyserda solar incentive,10,MEDIUM,0,0
+expanded,solar panels for schools,20,LOW,2.892014,10.755541
+expanded,solar energy courses,10,LOW,0,0
+expanded,solar courses near me,10,MEDIUM,0,0
+expanded,solar panel installation courses,10,LOW,1.735208,8.304214
+expanded,solar installation courses,10,LOW,1.735208,8.304214
+expanded,solar engineering courses,10,UNSPECIFIED,0,0
+expanded,solar energy certification courses,10,LOW,0,0
+expanded,solar pv courses,10,UNSPECIFIED,0,0
+expanded,solar energy schools near me,10,UNSPECIFIED,0,0
+expanded,solar schools near me,10,HIGH,1.060405,9.612506
+expanded,solar power courses,10,MEDIUM,0,0
+expanded,solar energy courses near me,10,UNSPECIFIED,0,0
+expanded,solar panel courses near me,10,UNSPECIFIED,0,0
+expanded,solar academy,10,LOW,0,0
+expanded,solar certification courses,10,UNSPECIFIED,0,0
+expanded,solar panels for schools grants,10,LOW,0,0
+expanded,online solar power courses,10,HIGH,0,0
+expanded,solar panel engineer courses,10,UNSPECIFIED,0,0
+expanded,solar farm,1600,LOW,3.029729,8.18027
+expanded,solar farms near me,110,LOW,3.039743,13.606241
+expanded,solar power plant,140,LOW,3.567259,6.472604
+expanded,solar panel farm,110,LOW,2.712985,6.13198
+expanded,solar farm cost,10,LOW,0,0
+expanded,solar farm for sale,20,LOW,1.429003,5.048367
+expanded,solar farm companies near me,10,HIGH,0,0
+expanded,solar panel farms near me,10,LOW,0,0
+expanded,arcadia solar farm,10,MEDIUM,1.914238,8.689816
+expanded,solar panel farm cost,10,HIGH,0,0
+expanded,solar fields near me,20,LOW,3.098587,12.050062
+expanded,starting a solar farm,10,HIGH,0,0
+expanded,proposed solar farms near me,20,LOW,1.872923,5.605
+expanded,community solar farm,30,LOW,2.924554,22.006856
+expanded,solar field companies,10,HIGH,6.004373,29.11295
+expanded,solar panel fields,50,LOW,2.350742,4.118526
+expanded,1 acre solar farm cost,10,LOW,0,0
+expanded,solar farming business,20,HIGH,3.22253,5.101708
+expanded,floating solar power plant,10,LOW,0,0
+expanded,agri solar,10,LOW,0,0
+expanded,used solar panels for sale,90,HIGH,0.165257,4.282936
+expanded,solar panels for sale near me,70,HIGH,2.988415,11.21
+expanded,sun power solar panels for sale,10,UNSPECIFIED,0,0
+expanded,buy solar panels direct from manufacturer,10,HIGH,0,0
+expanded,buy solar,20,LOW,0,0
+expanded,purchase solar panels,210,HIGH,3.307272,15.451622
+expanded,tesla solar panels for sale,10,HIGH,1.721437,5.990602
+expanded,used solar panels for sale near me,20,HIGH,0.110171,1.155649
+expanded,best place to buy solar panels,10,HIGH,0,0
+expanded,home solar panels for sale,20,HIGH,4.585909,15.107335
+expanded,buy solar panels wholesale,10,HIGH,3.49796,8.552101
+expanded,typical cost of solar panels,10,MEDIUM,5.081925,11.912347
+expanded,solar cells for sale,20,HIGH,2.516053,8.815599
+expanded,best price solar panels,10,HIGH,0,0
+expanded,don t buy solar panels,10,UNSPECIFIED,0,0
+expanded,cost of 10kw solar system,20,HIGH,8.593415,64.381762
+expanded,tesla solar roof price,20,MEDIUM,3.745847,13.854053
+expanded,wholesale solar panels for sale,10,LOW,0,0
+expanded,canadian solar panels for sale,10,HIGH,0,0
+expanded,cheap solar panels for sale,10,HIGH,0,0
+expanded,free solar quote,10,HIGH,0,0
+expanded,get a solar quote,20,HIGH,46.974586,101.910124
+expanded,solar roof quote,10,UNSPECIFIED,0,0
+expanded,get a quote for solar panels,10,UNSPECIFIED,0,0
+expanded,solar panel quote near me,70,UNSPECIFIED,0,0
+expanded,get solar panel quotes,10,UNSPECIFIED,0,0
+expanded,solar panel quotation,210,MEDIUM,42.003074,90.933214
+expanded,free solar panel quote,30,HIGH,0,0
+expanded,home solar quote,10,UNSPECIFIED,0,0
+expanded,tesla solar panels quote,10,HIGH,0,0
+expanded,solar quotes solar panels,10,HIGH,0,0
+expanded,tesla solar roof quote,10,LOW,0,0
+expanded,best solar quotes,10,UNSPECIFIED,0,0
+expanded,solar electrician near me,90,HIGH,0,0
+expanded,solar battery installers near me,90,LOW,7.477924,15.89231
+expanded,solar panel fitters near me,110,UNSPECIFIED,0,0
+expanded,tesla powerwall installers near me,10,UNSPECIFIED,0,0
+expanded,solar pv installers near me,10,LOW,0,0
+expanded,solar panel contractors near me,30,LOW,0,0
+expanded,solar installers in my area,10,HIGH,0,0
+expanded,residential solar installers near me,20,LOW,8.08387,24.139704
+expanded,pool solar companies near me,10,UNSPECIFIED,0,0
+expanded,solar panel providers near me,10,UNSPECIFIED,0,0
+expanded,solar panel electrician near me,10,UNSPECIFIED,0,0
+expanded,tesla solar installers near me,10,HIGH,0,0
+expanded,off grid solar installers near me,10,LOW,0,0
+expanded,solar roof installers near me,140,LOW,0,0
+expanded,solar system installers near me,170,MEDIUM,12.284177,24.416869
+expanded,residential solar companies near me,10,LOW,2.712985,8.497015
+expanded,solar electricians near me,10,MEDIUM,0,0
+expanded,solar power contractors near me,10,LOW,0,0
+expanded,top rated solar companies near me,10,MEDIUM,0,0
+expanded,solar contractors in my area,10,HIGH,0,0
+expanded,local solar installers near me,10,LOW,0,0
+expanded,best solar panel company near me,20,LOW,0,0
+expanded,commercial solar installers near me,590,LOW,0,0
+expanded,solaredge installers near me,10,MEDIUM,5.246941,12.325492
+expanded,solar panel companies in my area,20,LOW,0,0
+expanded,solar system contractors near me,10,UNSPECIFIED,0,0
+expanded,solar pigeon proofing companies near me,10,UNSPECIFIED,0,0
+expanded,tesla solar roof installers near me,10,HIGH,6.500147,12.628465
+expanded,solar power companies in my area,10,UNSPECIFIED,0,0
+expanded,pv installers near me,110,LOW,0,0
+expanded,home solar companies near me,10,HIGH,0,0
+expanded,residential solar panel installers near me,10,LOW,0,0
+expanded,best solar power companies near me,10,UNSPECIFIED,0,0
+expanded,solar electric companies near me,10,UNSPECIFIED,0,0
+expanded,solar panel critter guard installation near me,10,LOW,0,0
+expanded,solar system installer near me,10,LOW,0,0
+expanded,solar power installers in my area,10,UNSPECIFIED,0,0
+expanded,solar roof companies near me,10,HIGH,0,0
+expanded,home solar installers near me,10,LOW,0,0
+expanded,solar panel suppliers near me,10,MEDIUM,2.327383,18.453809
+expanded,solar service near me,10,MEDIUM,0,0
+expanded,sunpower near me,10,UNSPECIFIED,0,0
+expanded,solar panel dealers near me,10,HIGH,0,0
+expanded,best solar near me,10,UNSPECIFIED,0,0
+expanded,rv solar installers near me,20,MEDIUM,1.652579,4.640995
+expanded,solar energy providers near me,10,LOW,0,0
+expanded,solar suppliers near me,20,HIGH,0,0
+expanded,solar power providers near me,10,LOW,0,0
+expanded,best solar providers near me,10,HIGH,0,0
+expanded,sunpower solar near me,10,UNSPECIFIED,0,0
+expanded,sunrun near me,40,LOW,6.720491,19.65193
+expanded,solar pool heater installation near me,10,LOW,0,0
+expanded,solar panels service near me,30,HIGH,10.053194,40.171465
+expanded,tesla solar near me,10,LOW,0,0
+expanded,highest rated solar companies near me,10,UNSPECIFIED,0,0
+expanded,solar pool heater installers near me,10,LOW,0,0
+expanded,pool solar installers near me,10,UNSPECIFIED,0,0
+expanded,solar hot water installers near me,10,UNSPECIFIED,0,0
+expanded,solar maintenance services near me,10,UNSPECIFIED,0,0
+expanded,solar system loans,10,HIGH,6.279803,14.170873
+expanded,solar financing for contractors,10,UNSPECIFIED,0,0
+expanded,residential solar financing,10,HIGH,0,0
+expanded,solar power financing,40,MEDIUM,6.871978,18.302323
+expanded,solar power loans,70,LOW,5.178083,15.589337
+expanded,solar loan financing,10,LOW,0,0
+expanded,best way to finance solar panels,10,MEDIUM,0,0
+expanded,government solar loans,10,HIGH,0,0
+expanded,solar financing options,20,LOW,0,0
+expanded,solar energy loans,10,UNSPECIFIED,0,0
+expanded,solar loans for homeowners,10,LOW,0,0
+expanded,no money down solar panels,10,UNSPECIFIED,0,0
+expanded,best loans for solar panels,10,UNSPECIFIED,0,0
+expanded,personal loan for solar panels,10,MEDIUM,0,0
+expanded,home equity loan for solar,10,HIGH,0,0
+expanded,loans for solar installation,90,LOW,6.79279,18.756782
+expanded,solar no money down,10,UNSPECIFIED,0,0
+expanded,loan for solar panel installation,10,LOW,0,0
+expanded,green loans for solar panels,10,UNSPECIFIED,0,0
+expanded,solar panels financing options,10,LOW,0,0
+expanded,sunrun battery backup,30,HIGH,2.514466,16.759915
+expanded,sunrun battery,110,HIGH,1.74898,22.282286
+expanded,tesla powerwall installation,50,LOW,0,0
+expanded,sunrun battery cost,10,MEDIUM,0,0
+expanded,sunrun battery backup cost,10,LOW,0,0
+expanded,solar battery installation cost,10,LOW,0,0
+expanded,sunrun backup battery cost,50,MEDIUM,0,0
+expanded,sunrun backup battery,10,HIGH,2.252069,14.666647
+expanded,sunrun solar battery cost,10,MEDIUM,3.156206,15.671966
+expanded,tesla solar powerwall,10,HIGH,3.704533,9.626278
+expanded,cost to install solar panels and battery,10,HIGH,0,0
+expanded,solar powerwall,40,HIGH,4.751167,13.055381
+expanded,tesla powerwall installer near me,10,MEDIUM,0,0
+expanded,solar battery installation near me,90,LOW,7.477924,15.89231
+expanded,solar panel and battery installation,10,UNSPECIFIED,0,0
+expanded,tesla powerwall installation cost,10,LOW,0,0
+expanded,sunrun solar battery,10,LOW,0,0
+expanded,sunrun powerwall,10,LOW,0,0
+expanded,tesla solar and powerwall,10,HIGH,3.704533,9.626278
+expanded,tesla powerwall and solar panels,10,HIGH,0,0
+expanded,solar repair near me,20,MEDIUM,6.293575,40.006207
+expanded,solar panel repair near me,10,MEDIUM,4.893822,19.954903
+expanded,solar system repair near me,10,HIGH,3.800933,17.004263
+expanded,solar panel repair,50,LOW,3.869791,8.703587
+expanded,solar repair,10,LOW,0,0
+expanded,solar repair companies near me,10,MEDIUM,0,0
+expanded,solar water heater repair,10,LOW,0,0
+expanded,solar panel servicing,10,MEDIUM,0,0
+expanded,solar repair companies,10,LOW,0,0
+expanded,solar system repair,10,LOW,0,0
+expanded,solar maintenance near me,10,HIGH,0,0
+expanded,solar maintenance,20,LOW,0,0
+expanded,solar panel maintenance cost,20,LOW,0,0
+expanded,solar panel maintenance companies,10,LOW,0,0
+expanded,solar system maintenance near me,10,HIGH,0,0
+expanded,solar system maintenance,10,MEDIUM,0,0
+expanded,solar system service & maintenance,10,UNSPECIFIED,0,0
+expanded,solar panels repair and maintenance,10,UNSPECIFIED,0,0
+expanded,solar panel repair companies,10,LOW,0,0
+expanded,tesla power wall,1300,HIGH,1.721437,7.643182
+expanded,tesla solar panels free,10,HIGH,0,0
+expanded,tesla solar power,70,HIGH,5.012825,13.606241
+expanded,tesla solar system,140,HIGH,4.158992,16.02626
+expanded,tesla roof tiles,70,LOW,1.969324,6.968378
+expanded,tesla panels,30,MEDIUM,2.754299,8.194042
+expanded,tesla solar panels colorado,10,UNSPECIFIED,0,0
+expanded,free tesla solar panels,10,HIGH,2.754299,13.730185
+expanded,tesla solar panels customer service,10,MEDIUM,0,0
+expanded,tesla solar panels for home,10,HIGH,2.754299,14.886991
+expanded,tesla solar roof tiles,40,MEDIUM,2.410012,9.474791
+expanded,elon musk solar panels,20,LOW,1.996867,7.918612
+expanded,tesla roof shingles,90,LOW,2.67167,9.46102
+expanded,tesla solar tiles,1000,MEDIUM,3.291388,12.174005
+expanded,tesla solar energy,1600,MEDIUM,3.759619,13.881671
+expanded,tesla solar panels cost per month,10,HIGH,0,0
+expanded,tesla home solar system,10,UNSPECIFIED,0,0
+expanded,tesla solar roof shingles,140,MEDIUM,2.602291,7.849754
+expanded,tesla solar installation,40,LOW,2.754299,28.699805
+expanded,solar power wall,10,HIGH,0,0
+expanded,sunpower maxeon,90,HIGH,0,0
+expanded,sunpower panels,20,HIGH,0,0
+expanded,sunpower maxeon 6,10,HIGH,0,0
+expanded,sun power solar company,480,MEDIUM,5.756485,23.549264
+expanded,maxeon solar panels,90,HIGH,3.734319,14.51516
+expanded,sunpower maxeon 3,10,HIGH,0,0
+expanded,sunpower solar system,10,UNSPECIFIED,0,0
+expanded,sunpower cost,10,UNSPECIFIED,0,0
+expanded,sunpower estimate,10,UNSPECIFIED,0,0
+expanded,sunpower maxeon 6 price,10,MEDIUM,0,0
+expanded,maxeon solar,110,LOW,0,0
+expanded,maxeon,140,LOW,0,0
+expanded,sunpower maxeon 6 ac,10,UNSPECIFIED,0,0
+expanded,sunpower solar quote,10,UNSPECIFIED,0,0
+expanded,sunpower installers,10,UNSPECIFIED,0,0
+expanded,sunpower equinox,10,UNSPECIFIED,0,0
+expanded,sunpower solar panel cost,10,LOW,0,0
+expanded,my sunpower,20,LOW,0,0
+expanded,sunpower module,10,UNSPECIFIED,0,0
+expanded,sunpower flexible solar panels,20,HIGH,0,0
+expanded,lg solar panels for sale,10,HIGH,0,0
+expanded,lg solar panels price,10,HIGH,0,0
+expanded,lg solar panels 400w price,10,UNSPECIFIED,0,0
+expanded,lg 400 watt solar panel price,10,HIGH,0,0
+expanded,neon solar,10,UNSPECIFIED,0,0
+expanded,lg solar panels 400w,10,UNSPECIFIED,0,0
+expanded,lg neon r,10,HIGH,0,0
+expanded,lg neon r solar panels,10,LOW,0,0
+expanded,lg neon 2 solar panels price,10,UNSPECIFIED,0,0
+expanded,lg panels,10,LOW,0,0
+expanded,lg neon 2,10,LOW,0,0
+expanded,lg neon 2 solar panels,10,UNSPECIFIED,0,0
+expanded,lg neon,40,LOW,0,0
+expanded,lg neon solar panels,10,UNSPECIFIED,0,0
+expanded,lg solar panel cost,10,UNSPECIFIED,0,0
+expanded,lg solar system,10,UNSPECIFIED,0,0
+expanded,lg solar usa,10,LOW,0,0
+expanded,lg solar panels discontinued,10,UNSPECIFIED,0,0
+expanded,panasonic solar panels for sale,10,MEDIUM,0,0
+expanded,panasonic evervolt,10,HIGH,0,0
+expanded,panasonic solar panels price,10,HIGH,0,0
+expanded,panasonic solar panels 400w,10,UNSPECIFIED,0,0
+expanded,panasonic panels,10,HIGH,0,0
+expanded,panasonic solar panel installers,10,UNSPECIFIED,0,0
+expanded,panasonic 400 watt solar panel,10,HIGH,0,0
+expanded,panasonic hit solar panels,10,UNSPECIFIED,0,0
+expanded,panasonic evervolt panels,10,HIGH,0,0
+expanded,panasonic evervolt solar panel price,10,UNSPECIFIED,0,0
+expanded,evervolt solar panels,10,HIGH,0,0
+expanded,evervolt,10,MEDIUM,0,0
+expanded,panasonic solar panels discontinued,10,UNSPECIFIED,0,0
+expanded,buy panasonic solar panels,10,UNSPECIFIED,0,0
+expanded,panasonic solar authorized installers,10,UNSPECIFIED,0,0
+expanded,tesla panasonic solar panels,10,LOW,0,0
+expanded,panasonic 400w solar panel,10,HIGH,0,0
+expanded,panasonic solar installers,10,UNSPECIFIED,0,0
+expanded,panasonic solar system,10,UNSPECIFIED,0,0
+expanded,renogy solar,90,HIGH,0.757432,36.108872
+expanded,renogy solar kit,30,HIGH,0.495773,42.443762
+expanded,renogy charge controller,20,HIGH,0.378242,2.616584
+expanded,renogy solar panel kit,10,HIGH,0,0
+expanded,renogy 200w solar panel,10,HIGH,0.302972,3.814705
+expanded,renogy 100 watt solar panel,20,HIGH,0.220343,2.238759
+expanded,renogy 100w solar panel,10,HIGH,0.275429,2.768071
+expanded,renogy flexible solar panels,10,HIGH,0.318662,4.379336
+expanded,renogy 200 watt solar panel,10,HIGH,0.275429,2.360954
+expanded,renogy power station,10,HIGH,0,0
+expanded,renogy solar charge controller,10,HIGH,0,0
+expanded,renogy portable solar panels,10,HIGH,0,0
+expanded,renogy solar controller,10,HIGH,0,0
+expanded,renogy mppt charge controller,10,HIGH,0,0
+expanded,renogy solar panels 200w,10,HIGH,0,0
+expanded,renogy rng 100d ss,10,HIGH,0,0
+expanded,renogy 400 watt solar kit,10,HIGH,0,0
+expanded,renogy rv solar kit,10,HIGH,0,0
+expanded,renogy 100 watt 12 volt monocrystalline solar panel,10,HIGH,0,0
+expanded,tesla roof,390,LOW,2.754299,7.932383
+expanded,tesla powerwall 2 price,50,LOW,0,0
+expanded,tesla roof cost,70,MEDIUM,2.754299,9.094289
+expanded,tesla wall,70,MEDIUM,1.721437,6.775577
+expanded,tesla powerwall 3,390,HIGH,1.969324,8.304214
+expanded,tesla powerwall price,70,MEDIUM,2.57527,12.58715
+expanded,tesla energy solar,10,UNSPECIFIED,0,0
+expanded,solarcity tesla,20,LOW,0,0
+expanded,power wall cost,20,HIGH,1.872923,7.009693
+expanded,tesla solar program,10,MEDIUM,0,0
+expanded,powerwall 3,140,HIGH,1.74898,14.639104
+expanded,tesla solar wall,10,HIGH,1.349606,12.339263
+expanded,teslasolar,2900,MEDIUM,5.398427,19.142384
+expanded,tesla solar estimate,10,HIGH,0,0
+expanded,tesla com solar,10,UNSPECIFIED,0,0
+expanded,tesla powerwall for sale,10,HIGH,2.478869,21.139252
+expanded,tesla powerwall alternative,30,HIGH,2.065724,8.91016
+expanded,tesla powerwall monthly cost,10,UNSPECIFIED,0,0
+expanded,sunrun,4400,LOW,2.768071,14.186822
+expanded,sunrun customer service,320,LOW,5.384656,18.37118
+expanded,sunrun costco,170,MEDIUM,2.712985,29.84284
+expanded,sunrun inc,110,LOW,2.371831,8.221585
+expanded,sun run solar cost,20,HIGH,3.828476,16.809198
+expanded,sunrun solar customer service,320,LOW,5.384656,18.37118
+expanded,sun run solar power,590,HIGH,4.585909,17.472868
+expanded,sunrun solar costco,170,MEDIUM,2.712985,29.84284
+expanded,sunrun solar system,10,MEDIUM,2.444193,29.360837
+expanded,sunrun payment,30,LOW,0,0
+expanded,sunrun paneles solares,10,UNSPECIFIED,0,0
+expanded,my sunrun com,50,LOW,5.921744,16.842544
+expanded,sunrun energy,20,MEDIUM,2.712985,8.735685
+expanded,sunrun free solar panels,20,HIGH,3.12613,7.959926
+expanded,sunrun monthly lease cost,10,HIGH,4.365565,10.438796
+expanded,sunrun vivint solar,10,UNSPECIFIED,0,0
+expanded,i hate sunrun,20,LOW,0,0
+expanded,my sunrun,90,LOW,5.811572,17.613748
+expanded,sunrun solar programs,10,HIGH,0,0
+expanded,sunrun lease,10,MEDIUM,4.282936,22.461315
+expanded,sunpower corporation,1600,LOW,4.764938,18.743011
+expanded,sunpower direct,10,UNSPECIFIED,0,0
+expanded,sunpower company,1600,LOW,4.764938,18.743011
+expanded,sunpower energy,1600,LOW,4.764938,18.743011
+expanded,1800 sunpower,10,UNSPECIFIED,0,0
+expanded,sunpower website,10,UNSPECIFIED,0,0
+expanded,sunpower costco,10,UNSPECIFIED,0,0
+expanded,go sunpower,10,UNSPECIFIED,0,0
+expanded,maxeon 3,10,HIGH,0,0
+expanded,maxeon 6,10,HIGH,0,0
+expanded,sunpower powerwall,10,UNSPECIFIED,0,0
+expanded,maxeon solar technologies,90,LOW,0,0
+expanded,sunpowersolar,480,MEDIUM,5.756485,23.549264
+expanded,sunpower sales,10,LOW,0,0
+expanded,best sunpower solar panels,10,UNSPECIFIED,0,0
+expanded,buy sunpower solar panels,10,LOW,0,0
+expanded,sunpower solar energy,480,MEDIUM,5.756485,23.549264
+expanded,sunpower corporation systems,10,LOW,0,0
+expanded,mysunpower,70,LOW,0,0
+expanded,lg chem resu,10,MEDIUM,0,0
+expanded,lg chem resu 10,10,UNSPECIFIED,0,0
+expanded,lg powerwall,10,LOW,0,0
+expanded,lg resu 10,10,UNSPECIFIED,0,0
+expanded,lg chem resu 10h,10,LOW,0,0
+expanded,lg resu,10,UNSPECIFIED,0,0
+expanded,lge solar share,10,UNSPECIFIED,0,0
+expanded,lg power wall,10,UNSPECIFIED,0,0
+expanded,lge solar,10,LOW,0,0
+expanded,lg resu 10h,10,HIGH,0,0
+expanded,lg chem resu 10h prime,10,LOW,0,0
+expanded,lg resu 10h prime,10,UNSPECIFIED,0,0
+expanded,lg resu10h,10,HIGH,0,0
+expanded,resu10h,10,MEDIUM,0,0
+expanded,lg 400w solar panel,10,UNSPECIFIED,0,0
+expanded,lg residential solar panels,10,UNSPECIFIED,0,0
+expanded,panasonic solar panels manufacturers,10,UNSPECIFIED,0,0
+expanded,panasonic evervolt solar panels,10,LOW,0,0
+expanded,panasonic pv panels,50,HIGH,2.754299,13.41344
+expanded,panasonic evervolt 400,10,UNSPECIFIED,0,0
+expanded,panasonic hit,10,UNSPECIFIED,0,0
+expanded,evpv410h,10,UNSPECIFIED,0,0
+expanded,panasonic 410w solar panel,10,UNSPECIFIED,0,0
+expanded,panasonic solar panel kits,10,UNSPECIFIED,0,0
+expanded,evpv360pk,10,UNSPECIFIED,0,0
+expanded,cost of panasonic solar panels,10,HIGH,0,0
+expanded,panasonic solar cells,10,HIGH,0,0
+expanded,panasonic solar panels with micro inverters,10,HIGH,0,0
+expanded,best panasonic solar panels,10,UNSPECIFIED,0,0
+expanded,panasonic pv,10,LOW,0,0
+expanded,vbhn330sa16,10,MEDIUM,0,0
+expanded,panasonic powerwall,10,LOW,0,0
