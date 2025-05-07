@@ -1,110 +1,186 @@
 {
   "seo": {
-    "title": "",
-    "description": "",
-    "keywords": [],
-    "meta": {},
-    "favicon": ""
+    "title": "Residential Solar Solutions | Sagasystem",
+    "description": "Switch to clean, affordable solar energy for your home. Get a free quote and see how much you can save!",
+    "keywords": [
+      "solar",
+      "residential solar",
+      "solar panels",
+      "home solar",
+      "clean energy",
+      "solar savings"
+    ],
+    "meta": {
+      "og:title": "Residential Solar Solutions | Sagasystem",
+      "og:description": "Switch to clean, affordable solar energy for your home. Get a free quote and see how much you can save!",
+      "og:image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Residential Solar Solutions | Sagasystem",
+      "twitter:description": "Switch to clean, affordable solar energy for your home. Get a free quote and see how much you can save!",
+      "twitter:image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+    },
+    "favicon": "https://cdn.pixabay.com/photo/2017/01/31/13/14/solar-panel-2025867_1280.png"
   },
   "navigation": {
-    "logo": "",
-    "companyName": "",
-    "links": []
+    "logo": "https://cdn.pixabay.com/photo/2017/01/31/13/14/solar-panel-2025867_1280.png",
+    "companyName": "Sagasystem Solar",
+    "links": [
+      {
+        "text": "Home",
+        "url": "/"
+      },
+      {
+        "text": "How It Works",
+        "url": "#solution"
+      },
+      {
+        "text": "Gallery",
+        "url": "#gallery"
+      },
+      {
+        "text": "FAQ",
+        "url": "#faq"
+      }
+    ]
   },
   "hero": {
-    "title": "",
-    "subtitle": "",
-    "image": "",
+    "title": "Go Solar & Save on Your Energy Bills!",
+    "subtitle": "Discover how easy it is to power your home with clean, renewable energy. Get a free, no-obligation quote today.",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
     "cta": {
-      "text": "",
-      "link": ""
+      "text": "Get My Free Quote",
+      "link": "#leadform"
     }
   },
   "trustedBy": {
-    "title": "",
-    "subtitle": "",
+    "title": "Trusted by Homeowners Nationwide",
+    "subtitle": "Thousands of families have made the switch to solar with Sagasystem.",
     "logos": [
-      "",
-      "",
-      "",
-      ""
+      "https://cdn.pixabay.com/photo/2016/03/31/19/56/solar-1291360_1280.png",
+      "https://cdn.pixabay.com/photo/2013/07/12/13/58/sun-147882_1280.png",
+      "https://cdn.pixabay.com/photo/2012/04/13/00/22/earth-31201_1280.png",
+      "https://cdn.pixabay.com/photo/2014/04/03/10/32/eco-312989_1280.png"
     ]
   },
   "need": [
     {
-      "title": "",
-      "description": "",
-      "icon": ""
+      "title": "High Energy Bills",
+      "description": "Tired of rising electricity costs? Solar can help you lock in lower rates.",
+      "icon": "https://cdn.pixabay.com/photo/2017/01/31/13/14/solar-panel-2025867_1280.png"
     },
     {
-      "title": "",
-      "description": "",
-      "icon": ""
+      "title": "Sustainable Living",
+      "description": "Reduce your carbon footprint and help the environment.",
+      "icon": "https://cdn.pixabay.com/photo/2014/04/03/10/32/eco-312989_1280.png"
     },
     {
-      "title": "",
-      "description": "",
-      "icon": ""
+      "title": "Increase Home Value",
+      "description": "Solar panels can boost your property value and appeal.",
+      "icon": "https://cdn.pixabay.com/photo/2012/04/13/00/22/earth-31201_1280.png"
     }
   ],
   "solution": {
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "How Sagasystem Solar Works",
+    "description": "We make going solar simple, affordable, and hassle-free for homeowners.",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80",
     "points": [
       {
-        "title": "",
-        "description": ""
+        "title": "Free Consultation",
+        "description": "Our experts assess your home and energy needs."
       },
       {
-        "title": "",
-        "description": ""
+        "title": "Custom Solar Design",
+        "description": "We design a system tailored to your roof and budget."
       }
     ]
   },
   "ctaSection": {
-    "title": "",
-    "description": "",
-    "buttonText": "",
-    "buttonLink": ""
+    "title": "Ready to Start Saving?",
+    "description": "Join thousands of happy homeowners who have switched to solar. Get your free quote now!",
+    "buttonText": "Get Started",
+    "buttonLink": "#leadform"
   },
   "testimonials": [
     {
-      "name": "",
-      "text": "",
-      "avatar": ""
+      "name": "Sarah T.",
+      "text": "Sagasystem made the switch to solar so easy! My bills are lower and I feel great about helping the planet.",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "name": "Mike R.",
+      "text": "The installation was quick and professional. Highly recommend Sagasystem for anyone considering solar.",
+      "avatar": "https://randomuser.me/api/portraits/men/46.jpg"
     }
   ],
   "gallery": [
     {
-      "image": "",
-      "alt": ""
+      "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=800&q=80",
+      "alt": "Modern home with solar panels"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80",
+      "alt": "Solar installation team at work"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "alt": "Rooftop solar panels closeup"
     }
   ],
   "faq": [
     {
-      "question": "",
-      "answer": ""
+      "question": "How much can I save with solar?",
+      "answer": "Savings depend on your location and energy usage, but most homeowners see significant reductions in their electricity bills."
+    },
+    {
+      "question": "Is my home a good fit for solar?",
+      "answer": "Our team will assess your roof and energy needs to determine if solar is right for you."
+    },
+    {
+      "question": "What incentives are available?",
+      "answer": "Federal and local incentives may be available to help lower your installation costs."
     }
   ],
   "footer": {
     "links": [
       {
-        "text": "",
-        "url": ""
+        "text": "Privacy Policy",
+        "url": "/privacy"
+      },
+      {
+        "text": "Contact",
+        "url": "/contact"
       }
     ],
-    "copyright": ""
+    "copyright": "© 2024 Sagasystem Solar. All rights reserved."
   },
   "form": {
     "fields": [
       {
-        "name": "",
-        "type": "",
-        "placeholder": "",
+        "name": "name",
+        "type": "text",
+        "placeholder": "Your Name",
+        "required": true
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "placeholder": "Your Email",
+        "required": true
+      },
+      {
+        "name": "phone",
+        "type": "tel",
+        "placeholder": "Phone Number",
+        "required": false
+      },
+      {
+        "name": "address",
+        "type": "text",
+        "placeholder": "Home Address",
         "required": false
       }
     ],
-    "zapierWebhookUrl": ""
+    "zapierWebhookUrl": "https://hooks.zapier.com/hooks/catch/123456/abcde/"
   }
 }
