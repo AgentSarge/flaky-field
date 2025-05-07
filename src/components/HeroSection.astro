@@ -1,0 +1,12 @@
+---
+const { hero } = Astro.props;
+---
+<section id="hero" style="display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:2rem;padding:4rem 0;max-width:1200px;margin:0 auto;">
+  <div>
+    <h1 style="font-size:2.5rem;font-weight:800;">{hero.title}</h1>
+    <p style="font-size:1.25rem;margin-top:1rem;">{hero.subtitle}</p>
+  </div>
+  <div style="text-align:right;">
+    <img src={hero.image} alt="Hero Image" style="max-width:100%;border-radius:1.5rem;box-shadow:0 2px 16px rgba(0,0,0,0.08);" />
+  </div>
+</section> 

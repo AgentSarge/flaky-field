@@ -1,0 +1,13 @@
+---
+const { gallery } = Astro.props;
+---
+<section id="gallery" style="padding:4rem 0;background:#f9fafb;">
+  <div style="max-width:1200px;margin:0 auto;">
+    <h2 style="text-align:center;font-size:2rem;font-weight:800;margin-bottom:2rem;">Gallery</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;">
+      {gallery.map((img, i) => (
+        <img src={img.image} alt={img.alt} style="width:100%;border-radius:1rem;box-shadow:0 2px 8px rgba(0,0,0,0.06);object-fit:cover;aspect-ratio:4/3;" />
+      ))}
+    </div>
+  </div>
+</section> 

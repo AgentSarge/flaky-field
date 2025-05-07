@@ -1,16 +1,44 @@
 ---
-
+import { getSiteContent } from '../utils/contentLoader';
+import NavBar from '../components/NavBar.astro';
+import HeroSection from '../components/HeroSection.astro';
+import TrustedBySection from '../components/TrustedBySection.astro';
+import NeedSection from '../components/NeedSection.astro';
+import SolutionSection from '../components/SolutionSection.astro';
+import CTASection from '../components/CTASection.astro';
+import TestimonialSection from '../components/TestimonialSection.astro';
+import GallerySection from '../components/GallerySection.astro';
+import FAQSection from '../components/FAQSection.astro';
+import Footer from '../components/Footer.astro';
+import LeadForm from '../components/LeadForm.astro';
+const content = getSiteContent();
 ---
+
+<NavBar navigation={content.navigation} />
+<HeroSection hero={content.hero} />
+<TrustedBySection trustedBy={content.trustedBy} />
+<NeedSection need={content.need} />
+<SolutionSection solution={content.solution} />
+<CTASection ctaSection={content.ctaSection} />
+<LeadForm form={content.form} />
+<TestimonialSection testimonials={content.testimonials} />
+<GallerySection gallery={content.gallery} />
+<FAQSection faq={content.faq} />
+<Footer footer={content.footer} />
 
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/svg+xml" href={content.seo.favicon || '/favicon.svg'} />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>{content.seo.title || 'Astro'}</title>
+		<meta name="description" content={content.seo.description} />
 	</head>
 	<body>
-		<h1>Astro</h1>
+		<section id="hero">
+			<h1>{content.hero.title}</h1>
+			<p>{content.hero.subtitle}</p>
+		</section>
 	</body>
 </html>

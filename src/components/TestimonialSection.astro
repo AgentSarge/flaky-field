@@ -1,0 +1,17 @@
+---
+const { testimonials } = Astro.props;
+---
+<section id="testimonials" style="padding:4rem 0;background:white;">
+  <div style="max-width:1200px;margin:0 auto;">
+    <h2 style="text-align:center;font-size:2rem;font-weight:800;margin-bottom:2rem;">Testimonials</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2rem;">
+      {testimonials.map((t, i) => (
+        <div style="background:#f9fafb;padding:2rem;border-radius:1.5rem;box-shadow:0 2px 8px rgba(0,0,0,0.04);display:flex;flex-direction:column;align-items:center;">
+          <img src={t.avatar} alt={t.name} style="height:64px;width:64px;border-radius:50%;object-fit:cover;margin-bottom:1rem;" />
+          <p style="font-size:1.1rem;color:#333;font-style:italic;">"{t.text}"</p>
+          <span style="margin-top:1rem;font-weight:700;color:#2563eb;">{t.name}</span>
+        </div>
+      ))}
+    </div>
+  </div>
+</section> 

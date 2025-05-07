@@ -1,0 +1,13 @@
+---
+const { footer } = Astro.props;
+---
+<footer style="background:#111827;color:white;padding:2rem 0;text-align:center;">
+  <div style="max-width:1200px;margin:0 auto;">
+    <nav style="margin-bottom:1rem;">
+      {footer.links.map((link, i) => (
+        <a href={link.url} style="color:#93c5fd;margin:0 1rem;text-decoration:none;font-weight:500;">{link.text}</a>
+      ))}
+    </nav>
+    <div style="font-size:0.95rem;color:#d1d5db;">{footer.copyright}</div>
+  </div>
+</footer> 

@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "",
+    "description": "",
+    "keywords": [],
+    "meta": {},
+    "favicon": ""
+  },
+  "navigation": {
+    "logo": "",
+    "companyName": "",
+    "links": []
+  },
+  "hero": {
+    "title": "",
+    "subtitle": "",
+    "image": "",
+    "cta": {
+      "text": "",
+      "link": ""
+    }
+  },
+  "trustedBy": {
+    "title": "",
+    "subtitle": "",
+    "logos": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "need": [
+    {
+      "title": "",
+      "description": "",
+      "icon": ""
+    },
+    {
+      "title": "",
+      "description": "",
+      "icon": ""
+    },
+    {
+      "title": "",
+      "description": "",
+      "icon": ""
+    }
+  ],
+  "solution": {
+    "title": "",
+    "description": "",
+    "image": "",
+    "points": [
+      {
+        "title": "",
+        "description": ""
+      },
+      {
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  "ctaSection": {
+    "title": "",
+    "description": "",
+    "buttonText": "",
+    "buttonLink": ""
+  },
+  "testimonials": [
+    {
+      "name": "",
+      "text": "",
+      "avatar": ""
+    }
+  ],
+  "gallery": [
+    {
+      "image": "",
+      "alt": ""
+    }
+  ],
+  "faq": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
+  "footer": {
+    "links": [
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "copyright": ""
+  },
+  "form": {
+    "fields": [
+      {
+        "name": "",
+        "type": "",
+        "placeholder": "",
+        "required": false
+      }
+    ],
+    "zapierWebhookUrl": ""
+  }
+}
